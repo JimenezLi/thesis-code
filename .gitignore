@@ -1,0 +1,7 @@
+*.png
+*.pth
+*.csv
+*.pyc
+
+.idea
+.vscode
